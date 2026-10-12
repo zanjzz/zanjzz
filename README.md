@@ -1,47 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="Zanjoe Langa - Developer, Graphic Designer, Musician" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4MTA1YTgxNi0wMTEwLTRmNGMtOWE4YS0yZmRlYmJjYWZlZTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKvhCYrkr5Kh+QVNH/tU6Q8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozZDlkMTkyNy04ZTZmLTQzOGMtYWU3Zi0wMTYxMjdmMmU1ZGZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNotzxL/mddv1HAS+YHkGiLfgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg85yfjHN5QYTpZjFe8nI89b8kXdgBNyuE3ZcTXFRJZ2ykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaD4V3ZuKTzLwZcmnrjiyR8IAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA0iBPQxdj3grPpQ/ZO1iIW5AU4sfYqYyLgCpDNxPbn5GRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjjZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjgxMDVhODE2LTAxMTAtNGY0Yy05YThhLTJmZGViYmNhZmVlNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjJmMmVlNzZkLWI4OGItNDc4Mi05MDE2LWI3NzkyMDQ5MTQ3NHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDznJ+Mc3lBhOlmMV7ycjz1vyRd2AE3K4TdlxNcVElnbKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggChVc8Wfo1aB0/IPG0EGH2CMbJpIhZEYPZns1a7p1DwGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggLyMWGC2NY61/1dLhCKgfhS+twT0gh83TYwwZTGUVmHt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQE0bREauiwvAZQoc7eGFNP4rnK+RJzvdGgI9/Ew7oMyziI5hf91ar9MMXXzb+8QpqsvHihk0sQR209lwbGiQIt8=</c2pa:manifest></metadata>
-  <style>
-    .t{font-family:'Courier New',Courier,monospace;font-weight:bold}
-    .tw{animation:tw 2s steps(2,end) infinite}
-    .tw2{animation:tw 3s steps(2,end) infinite .7s}
-    .tw3{animation:tw 2.5s steps(2,end) infinite 1.2s}
-    @keyframes tw{0%{opacity:1}50%{opacity:.15}100%{opacity:1}}
-    .blink{animation:bl 1s steps(1,end) infinite}
-    @keyframes bl{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
-    .float{animation:fl 2s steps(4,end) infinite}
-    @keyframes fl{0%{transform:translateY(0)}50%{transform:translateY(-6px)}100%{transform:translateY(0)}}
-  </style>
-  <defs>
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity=".18"/></pattern>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0b2b"/><stop offset="1" stop-color="#1a1040"/></linearGradient>
-  </defs>
-  <rect width="900" height="280" fill="url(#bg)"/>
-  <!-- stars -->
-  <g fill="#fff">
-    <rect class="tw" x="60" y="40" width="4" height="4"/><rect class="tw2" x="180" y="90" width="4" height="4"/>
-    <rect class="tw3" x="300" y="30" width="4" height="4"/><rect class="tw" x="470" y="60" width="4" height="4"/>
-    <rect class="tw2" x="620" y="35" width="4" height="4"/><rect class="tw3" x="760" y="80" width="4" height="4"/>
-    <rect class="tw" x="840" y="30" width="4" height="4"/><rect class="tw2" x="100" y="220" width="4" height="4"/>
-    <rect class="tw3" x="250" y="240" width="4" height="4"/><rect class="tw" x="560" y="235" width="4" height="4"/>
-    <rect class="tw2" x="700" y="215" width="4" height="4"/><rect class="tw3" x="820" y="245" width="4" height="4"/>
-  </g>
-  <!-- title with pixel drop shadow -->
-  <text class="t" x="450" y="128" font-size="58" text-anchor="middle" fill="#ff2e97" letter-spacing="4">ZANJOE LANGA</text>
-  <text class="t" x="446" y="124" font-size="58" text-anchor="middle" fill="#36ecde" letter-spacing="4">ZANJOE LANGA</text>
-  <text class="t" x="450" y="170" font-size="20" text-anchor="middle" fill="#9dff3a" letter-spacing="3">DEVELOPER · GRAPHIC DESIGNER · MUSICIAN</text>
-  <text class="t blink" x="450" y="232" font-size="22" text-anchor="middle" fill="#ffffff" letter-spacing="6">- PRESS START -</text>
-  <!-- pixel heart (left) -->
-  <g class="float" fill="#ff2e97" transform="translate(90,110)">
-    <rect x="8" y="0" width="8" height="8"/><rect x="24" y="0" width="8" height="8"/>
-    <rect x="0" y="8" width="40" height="8"/><rect x="0" y="16" width="40" height="8"/>
-    <rect x="8" y="24" width="24" height="8"/><rect x="16" y="32" width="8" height="8"/>
-    <rect x="8" y="8" width="8" height="8" fill="#fff" opacity=".7"/>
-  </g>
-  <!-- pixel ghost (right) -->
-  <g class="float" transform="translate(770,108)" style="animation-delay:.5s">
-    <path fill="#36ecde" d="M8 0h24v8h8v32h-8v-8h-8v8h-8v-8h-8v8H0V8h8z"/>
-    <rect x="10" y="12" width="8" height="8" fill="#fff"/><rect x="24" y="12" width="8" height="8" fill="#fff"/>
-    <rect x="14" y="14" width="4" height="4" fill="#0b0b2b"/><rect x="28" y="14" width="4" height="4" fill="#0b0b2b"/>
-  </g>
-  <rect width="900" height="280" fill="url(#scan)"/>
-  <rect x="4" y="4" width="892" height="272" fill="none" stroke="#36ecde" stroke-width="4"/>
-</svg>
+<div align="center">
+
+<img src="assets/banner.svg" alt="Zanjoe Langa - Developer, Graphic Designer, Musician" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=36ECDE&center=true&vCenter=true&width=720&height=50&lines=Hello+World!+I'm+Zanjoe;Art+%2B+Technology+%3D+Magic;Building+things%2C+making+art%2C+making+music;Open+for+collabs+%26+commissions" alt="Typing animation" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=zanjzz&style=for-the-badge&color=ff2e97&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## 👋 About Me
+
+I'm an artist and developer who loves bringing **art and technology together** to create meaningful, creative experiences.
+
+Currently pursuing my college degree while building side projects, exploring new technologies, and turning ideas into things people can actually use. Beyond development, I express my creativity through graphic design and music.
+
+I'm always open to **connections, collaborations, commissions, and new opportunities**. Got an interesting idea, a project in mind, or just want to chat? Hit me up. I'm always happy to meet new people, learn from others, and make new friends.
+
+```text
+ ╔══════════════════════════════════════════╗
+ ║  Name     : Zanjoe Langa                 ║
+ ║  Roles    : Developer / Designer / Music ║
+ ║  Studying : College (still leveling up)  ║
+ ║  Focus    : Making cool stuff            ║
+ ║  Status   : Open to collabs  [ONLINE]    ║
+ ╚══════════════════════════════════════════╝
+```
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://www.facebook.com/zanjzzzz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/zanjzz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/zanjoe-langa-0b3b413a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:zdllzd23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,cpp,html,css,react&perline=8&theme=dark" alt="Languages and web: JavaScript, TypeScript, Java, C#, C++, HTML, CSS, React" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,vite,nodejs,tailwind,bootstrap,supabase,mariadb,aws&perline=8&theme=dark" alt="Frameworks and backend: Next.js, Vite, Node.js, Tailwind, Bootstrap, Supabase, MariaDB, AWS" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,github,figma,ai,ps,lr&perline=8&theme=dark" alt="Deploy and design: Cloudflare, Vercel, GitHub, Figma, Illustrator, Photoshop, Lightroom" />
+</p>
+
+<p align="center">
+  <sub>React Native · Canva · and always learning more</sub>
+</p>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zanjzz&show_icons=true&theme=tokyonight&hide_border=true&title_color=36ecde&icon_color=ff2e97" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanjzz&layout=compact&theme=tokyonight&hide_border=true&title_color=36ecde" height="170" alt="Most Used Languages" />
+</p>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<div align="center">
+
+*Building things, making art, and figuring it all out along the way.*
+
+<br/>
+
+<a href="https://ko-fi.com/zanjzz">
+  <img src="https://img.shields.io/badge/Support_My_Work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support My Work on Ko-fi" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2000&pause=800&color=9DFF3A&center=true&vCenter=true&width=400&height=40&lines=THANKS+FOR+VISITING!;SEE+YOU+AROUND!" alt="Thanks for visiting" />
+
+</div>
