@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=36ECDE&center=true&vCenter=true&width=720&height=50&lines=Hello+World!+I'm+Zanjoe;Art+%2B+Technology+%3D+Magic;Building+things%2C+making+art%2C+making+music;Open+for+collabs+%26+commissions" alt="Typing animation" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=zanjzz&style=for-the-badge&color=ff2e97&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -54,7 +52,8 @@ I'm always open to **connections, collaborations, commissions, and new opportuni
 </p>
 
 <p align="center">
-  <sub>React Native · Canva · and always learning more</sub>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
