@@ -1,7 +1,7 @@
 # Zanjoe Langa
 ### Developer · Graphic Designer · Musician
 
-I’m an artist and developer who loves bringing **art and technology together** to create meaningful, creative experiences.
+I'm an artist and developer who loves bringing **art and technology together** to create meaningful, creative experiences.
 
 Currently pursuing my college degree while building side projects, exploring new technologies, and turning ideas into things people can actually use. Beyond development, I express my creativity through graphic design and music.
 
@@ -15,6 +15,8 @@ I'm always open to **connections, collaborations, commissions, and new opportuni
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/zanjzz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanjoe-langa-0b3b413a3)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zdllzd23@gmail.com)
+
+---
 
 ## Tech Stack & Tools
 
@@ -60,20 +62,12 @@ I'm always open to **connections, collaborations, commissions, and new opportuni
 ## GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=zanjzz&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=zanjzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zanjzz&theme=tokyonight&hide_border=true&show_icons=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=zanjzz&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zanjzz&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
-</p>
-
----
-
-## A Little Inspiration
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanjzz&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
@@ -88,6 +82,6 @@ I'm always open to **connections, collaborations, commissions, and new opportuni
 
 <p align="center">
   <a href="https://ko-fi.com/zanjzz">
-    <img src="https://img.shields.io/badge/Support%20My%20Work-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Support My Work on Ko-fi" />
+    <img src="https://img.shields.io/badge/Support_My_Work-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Support My Work on Ko-fi" />
   </a>
 </p>
