@@ -31,10 +31,6 @@ I'm always open to **connections, collaborations, commissions, and new opportuni
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanjzz&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zanjzz&style=flat-square&color=36ecde&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
 ---
 
 <p align="center">
